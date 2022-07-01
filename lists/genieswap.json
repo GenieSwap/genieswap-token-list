@@ -1,0 +1,65 @@
+{
+  "name": "GenieSwap Default List",
+  "timestamp": "2022-06-20T15:41:29.665Z",
+  "version": {
+    "major": 2,
+    "minor": 4,
+    "patch": 2
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/GenieSwap/genieswap-token-list/main/genie-logo.png",
+  "keywords": [
+    "genieswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM",
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/GenieSwap/genieswap-token-list/main/assets/WFTM.svg"
+    },
+    {
+      "name": "LAMP Token",
+      "symbol": "LAMP",
+      "address": "0x908e087b11e1EA5f963Ed80dE19eBe871174aaFF",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/GenieSwap/genieswap-token-list/main/assets/LAMP.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/GenieSwap/genieswap-token-list/main/assets/USDC.svg"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "chainId": 250,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/GenieSwap/genieswap-token-list/main/assets/BTC.svg"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/GenieSwap/genieswap-token-list/main/assets/ETH.svg"
+    },
+    {
+      "name": "Golden Lamp",
+      "symbol": "GLAMP",
+      "address": "0xD84EA8F7c92257F11C5E39b71204f054E3F6C096",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/GenieSwap/genieswap-token-list/main/assets/GLAMP.png"
+    }
+  ]
+}

@@ -1,1 +1,1 @@
-# apeswap-token-lists
+# genieswap-token-list

@@ -1,5 +1,5 @@
 {
-  "name": "@genieswap/token-lists",
+  "name": "@genieswap/token-list",
   "version": "1.0.290",
   "description": "",
   "main": "index.js",
@@ -11,12 +11,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ApeSwapFinance/apeswap-token-lists.git"
+    "url": "git+https://github.com/GenieSwap/genieswap-token-list.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ApeSwapFinance/apeswap-token-lists/issues"
+    "url": "https://github.com/GenieSwap/genieswap-token-list/issues"
   },
-  "homepage": "https://github.com/ApeSwapFinance/apeswap-token-lists#readme"
+  "homepage": "https://github.com/GenieSwap/genieswap-token-list#readme"
 }
