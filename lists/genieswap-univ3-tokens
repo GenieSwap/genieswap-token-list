@@ -7,9 +7,9 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "http://assets.spooky.fi/tokens/BOO.png",
+  "logoURI": "https://raw.githubusercontent.com/GenieSwap/genieswap-token-list/main/genie-logo.png",
   "keywords": [
-    "spookyswap",
+    "genieswap",
     "default"
   ],
   "tokens": [
